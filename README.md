@@ -1,4 +1,4 @@
-## Hey 👋🏽, I'm  [**Łukasz**](https://github.com/lukasz-sz96)
+## Hey 👋, I'm  [**Łukasz**](https://github.com/lukasz-sz96)
 <img  align="right"  src="https://spotify-github-profile.vercel.app/api/view?uid=z5z2obf2moneui8six5wfotxy&cover_image=true" />
 
 <p align="left">
