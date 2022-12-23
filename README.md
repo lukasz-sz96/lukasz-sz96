@@ -6,7 +6,7 @@
 <a href="mailto:lukasz-sz96@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" alt="2" height="50" width="50" /></a>
 </p>
 
-Hi, I'm Łukasz, a Front End Developer 🚀 from Poland. Currently, I run an online gaming community 🕹️ <a href="https://gotorp.pl/" target="blank">GoToRP</a>. I aspire to become a Full Stack Developer. Besides programming, I enjoy creating music and exploring new technologies.
+Hi, I'm Łukasz, a Front End Developer 🚀 from Poland. I aspire to become a Full Stack Developer. Besides programming, I enjoy creating music and exploring new technologies.
 <br />
 
 ### Languages and Tools:
