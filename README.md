@@ -1,29 +1,25 @@
-## Hey, I'm  [**Łukasz**](https://github.com/lukasz-sz96)
-<img  align="right"  src="https://spotify-github-profile.vercel.app/api/view?uid=z5z2obf2moneui8six5wfotxy&cover_image=true" />
+# 👋 Hey, I'm Łukasz
 
-<p align="left">
-<a href="https://www.linkedin.com/in/lukasz-szczesny/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40" width="40" /></a>
-<a href="mailto:lukasz-sz96@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" alt="2" height="50" width="50" /></a>
-</p>
+**Frontend dev from Poland** who got tired of choosing between travel planning apps that either looked like they're from 2003 or required a PhD to use. So I built [Wanderlust](https://github.com/lukasz-sz96/Wanderlust). Also made [PantryPilot](https://github.com/lukasz-sz96/pantrypilot) because forgetting what's in my fridge is apparently a recurring character flaw, and [Polidex](https://github.com/lukasz-sz96/Polidex) to give knowledge bases a proper home.
 
-Hi, I'm Łukasz, a Front End Developer 🚀 from Poland. I aspire to become a Full Stack Developer. Besides programming, I enjoy creating music and exploring new technologies.
-<br />
+When I'm not shipping TypeScript, I'm probably making music or convincing myself that *this* weekend I'll finally go full-stack.
 
-### Languages and Tools:
+**[LinkedIn](https://www.linkedin.com/in/lukasz-szczesny/)** • **[Email](mailto:lukasz-sz96@gmail.com)** • **[szczesny.dev](https://szczesny.dev/)**
 
-<p align="left">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/nodejs.svg" alt="react2" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</p>
+## 🛠️ Current experiments
 
-<br />
+- **Wanderlust** – Self-hosted travel planner because privacy matters (and I like building things)
+- **PantryPilot** – Recipe manager using Cooklang (finally, a use for that expired yogurt)
+- **Polidex** – RAG admin system for AI chatbots who need to remember things better than I do
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=lukasz-sz96&show_icons=true&theme=buefy" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasz-sz96&layout=compact&theme=buefy" alt="languages" height="165">
+## 💭 Tech I'm into
+
+React • TypeScript • Node.js • Next.js • Tailwind • Convex • TanStack • Python
+
+Currently exploring: RAG systems, LLM integrations, vector databases, AI agents, self-hosted everything, and the eternal question of whether I should just learn Rust already.
+
+---
+
+<p align="center">
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=lukasz-sz96&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
