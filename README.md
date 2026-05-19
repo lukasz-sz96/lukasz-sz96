@@ -1,22 +1,30 @@
 # 👋 Hey, I'm Łukasz
 
-**Frontend dev from Poland** who got tired of choosing between travel planning apps that either looked like they're from 2003 or required a PhD to use. So I built [Wanderlust](https://github.com/lukasz-sz96/Wanderlust). Also made [PantryPilot](https://github.com/lukasz-sz96/pantrypilot) because forgetting what's in my fridge is apparently a recurring character flaw, and [Polidex](https://github.com/lukasz-sz96/Polidex) to give knowledge bases a proper home.
+Frontend dev from Poland. I build TypeScript apps and the occasional over-engineered personal tools.
 
-When I'm not shipping TypeScript, I'm probably making music or convincing myself that *this* weekend I'll finally go full-stack.
+A few things I've made:
+
+- [Wanderlust](https://github.com/lukasz-sz96/Wanderlust) - a self-hosted travel planner
+- [PantryPilot](https://github.com/lukasz-sz96/pantrypilot) - a recipe manager built around Cooklang
+- [Polidex](https://github.com/lukasz-sz96/Polidex) - a place for chatbot knowledge bases and RAG experiments
+
+Right now I'm mostly down the Linux desktop hole: Niri, Hyprland, Wayland, dotfiles, theming, panels, launchers, all that. I like making my setup feel good to use, then pretending it was about productivity.
 
 **[LinkedIn](https://www.linkedin.com/in/lukasz-szczesny/)** • **[Email](mailto:lukasz-sz96@gmail.com)** • **[szczesny.dev](https://szczesny.dev/)**
 
-## 🛠️ Current experiments
+## 🛠️ Currently messing with
 
-- **Wanderlust** – Self-hosted travel planner because privacy matters (and I like building things)
-- **PantryPilot** – Recipe manager using Cooklang (finally, a use for that expired yogurt)
-- **Polidex** – RAG admin system for AI chatbots who need to remember things better than I do
+- Niri and Hyprland setups
+- Wayland compositor workflows
+- dotfiles I can actually reinstall from
+- desktop visuals: blur, colors, animations, bars, launchers
+- self-hosted tools, RAG/LLM bits, and other side quests
 
-## 💭 Tech I'm into
+## 💭 Usually working with
 
 React • TypeScript • Node.js • Next.js • Tailwind • Convex • TanStack • Python
 
-Currently exploring: RAG systems, LLM integrations, vector databases, AI agents, self-hosted everything, and the eternal question of whether I should just learn Rust already.
+Also slowly circling Rust, like everyone else.
 
 ---
 
